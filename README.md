@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shristicode4
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python 
+- 👀 I’m interested in ...coding 
+- 🌱 I’m currently learning ...python and Database algorithms
 - 💞️ I’m looking to collaborate on ...projects on python
 - 📫 How to reach me ...email me at shristikaadhikari88@gmail.com
 
